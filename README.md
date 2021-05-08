@@ -1,16 +1,24 @@
-### Hi there 👋
+# Tim Searle
 
-<!--
-**timsearle/timsearle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Location](https://img.shields.io/badge/📍%20location-London-brightgreen)
+[![Twitter](https://img.shields.io/badge/twitter-@timsearle_-blue.svg?style=flat)](https://twitter.com/timsearle_)
 
-Here are some ideas to get you started:
+### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello 👋 My name is Tim, I've been developing for Apple platforms since 2011! 
+
+I'm incredibly passionate about building applications that put the user experience first - details matter! Interested in securing mobile applications, user data and respecting user privacy.
+
+Currently working on:
+
+- 🔨 Building [Altilium](https://apps.apple.com/gb/app/altilium/id1560227798) - an iOS application written predominantly in SwiftUI that helps cardiac physiologists optimise the energy outputs of batteries in pacemakers
+- 👾 Maintaining [emul8080r](https://github.com/timsearle/emul8080r) - an Intel 8080 emulator written in Swift
+
+Older projects:
+
+- [Euclid](https://github.com/timsearle/euclid) - Great-circle mathematics helper library for working easily with Core Location
+- [Bind](https://github.com/karmarama/bind) - A lightweight implementation of reactive type that you can subscribe to and transform values in a simple stream. An extremely simple way to introduce new engineers to functionality reactive programming.
+
+Fun Fact:
+
+🧗🏻‍♂️If I'm not writing code, I'm rock climbing! Can often be found lurking around London's many climbing walls.
