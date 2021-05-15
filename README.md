@@ -17,6 +17,6 @@ Currently working on:
 Older projects:
 
 - [Euclid](https://github.com/timsearle/euclid) - Great-circle mathematics helper library for working easily with Core Location
-- [Bind](https://github.com/karmarama/bind) - A lightweight implementation of reactive type that you can subscribe to and transform values in a simple stream. An extremely simple way to introduce new engineers to functionality reactive programming.
+- [Bind](https://github.com/karmarama/bind) - A lightweight implementation of reactive type that you can subscribe to and transform values in a simple stream. An extremely simple way to introduce new engineers to functional reactive programming.
 
 🧗🏻‍♂️If I'm not writing code, I'm rock climbing! Can often be found lurking around London's many climbing walls.
