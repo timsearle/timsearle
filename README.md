@@ -11,7 +11,7 @@ I'm incredibly passionate about building applications that put the user experien
 
 Currently working on:
 
-- 👨🏻‍💻 Principal Software Engineer @marksandspencer - building authentication APIs for Identity and Access Management and building the Mobile Platform team
+- 👨🏻‍💻 Principal Software Engineer [@marksandspencer](https://github.com/marksandspencer) - building authentication APIs for Identity and Access Management and building the Mobile Platform team
 - 🔨 Building [Altilium](https://apps.apple.com/gb/app/altilium/id1560227798) - an iOS application written predominantly in SwiftUI that helps cardiac physiologists optimise the energy outputs of batteries in pacemakers
 - 👾 Maintaining [emul8080r](https://github.com/timsearle/emul8080r) - an Intel 8080 emulator written in Swift
 
