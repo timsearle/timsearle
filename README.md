@@ -5,7 +5,7 @@
 
 ### About
 
-Hello 👋 My name is Tim, I've been developing for Apple platforms since 2011! 
+Hello 👋 My name is Tim, I've been developing software professionally since 2009, and specifically for Apple platforms since 2011! 
 
 I'm incredibly passionate about building applications that put the user experience first - details matter! Interested in securing mobile applications, user data and respecting user privacy.
 
