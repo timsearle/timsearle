@@ -1,9 +1,7 @@
-# Tim Searle
+# About
 
 ![Location](https://img.shields.io/badge/📍%20location-London-brightgreen)
 [![Twitter](https://img.shields.io/badge/twitter-@timsearle_-blue.svg?style=flat)](https://twitter.com/timsearle_)
-
-### About
 
 Hello 👋 My name is Tim, I've been developing software professionally since 2009, and specifically for Apple platforms since 2011! 
 
