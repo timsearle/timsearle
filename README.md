@@ -17,4 +17,4 @@ Older projects:
 - 📐 [Euclid](https://github.com/timsearle/euclid) - Great-circle mathematics helper library for working easily with Core Location
 - 🔴🟢 [Bind](https://github.com/karmarama/bind) - A lightweight implementation of reactive type that you can subscribe to and transform values in a simple stream. An extremely simple way to introduce new engineers to functional reactive programming.
 
-🧗🏻‍♂️If I'm not writing code, I'm rock climbing! Qualified Mountain Training Rock Climbing Instructor, and can often be found lurking around London's many climbing walls.
+🧗🏻‍♂️If I'm not writing code, I'm rock climbing! Qualified Mountain Training Rock Climbing Instructor, and can often be found lurking around London's many climbing walls, or climbing and instructing at the Southern Sandstone.
